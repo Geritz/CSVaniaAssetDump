@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="CSVania" tilewidth="32" tileheight="32" tilecount="32" columns="0">
+<tileset name="CSVania" tilewidth="32" tileheight="32" tilecount="34" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="Tiles/blue bricks.png"/>
@@ -96,5 +96,11 @@
  </tile>
  <tile id="34">
   <image width="32" height="32" source="Tiles/ddBLIC.png"/>
+ </tile>
+ <tile id="35">
+  <image width="32" height="32" source="Tiles/ddBICS.png"/>
+ </tile>
+ <tile id="36">
+  <image width="32" height="32" source="Tiles/ddBIC.png"/>
  </tile>
 </tileset>
