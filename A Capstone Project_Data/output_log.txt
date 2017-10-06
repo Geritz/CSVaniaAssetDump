@@ -1,0 +1,60 @@
+Initialize engine version: 5.3.8p2 (702ec25c6a03)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.092 seconds
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\Unity Projects\Game\Cepheus Studios\A Capstone Project_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3200x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.448802 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.905186 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 4.947372 ms (FindLiveObjects: 0.042771 ms CreateObjectMapping: 0.016265 ms MarkObjects: 0.132532 ms  DeleteObjects: 4.754899 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.306029 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.115965 ms (FindLiveObjects: 0.005722 ms CreateObjectMapping: 0.006325 ms MarkObjects: 0.097592 ms  DeleteObjects: 0.006024 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336451 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 4.934119 ms (FindLiveObjects: 0.014458 ms CreateObjectMapping: 0.007530 ms MarkObjects: 0.131628 ms  DeleteObjects: 4.779899 ms)
+
+You have unpaused the game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You have unpaused the game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+You have paused the game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+you have quit the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3f84 -> priority: 1 
