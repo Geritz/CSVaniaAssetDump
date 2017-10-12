@@ -14,9 +14,29 @@ Platform assembly: C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Ca
 Loading C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Capstone Project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Capstone Project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Capstone Project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+- Completed reload, in  0.061 seconds
 Platform assembly: C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Capstone Project_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Spencer Moran\Documents\GitHub\CSVaniaAssetDump\A Capstone Project_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.779152 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.209730 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 7.766228 ms (FindLiveObjects: 0.038852 ms CreateObjectMapping: 0.011746 ms MarkObjects: 0.221066 ms  DeleteObjects: 7.492456 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.855953 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 190.
+Total: 0.301180 ms (FindLiveObjects: 0.026805 ms CreateObjectMapping: 0.011746 ms MarkObjects: 0.236727 ms  DeleteObjects: 0.023793 ms)
+
+you have quit the game!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d9c -> priority: 1 
