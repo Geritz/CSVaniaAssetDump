@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset name="CSVania" tilewidth="32" tileheight="32" tilecount="34" columns="0">
+<tileset name="CSVania" tilewidth="32" tileheight="32" tilecount="49" columns="0">
  <grid orientation="orthogonal" width="1" height="1"/>
  <tile id="0">
   <image width="32" height="32" source="Tiles/blue bricks.png"/>
@@ -102,5 +102,50 @@
  </tile>
  <tile id="36">
   <image width="32" height="32" source="Tiles/ddBIC.png"/>
+ </tile>
+ <tile id="38">
+  <image width="32" height="32" source="Tiles/stairs2.png"/>
+ </tile>
+ <tile id="39">
+  <image width="32" height="32" source="Tiles/stairs1.png"/>
+ </tile>
+ <tile id="40">
+  <image width="32" height="32" source="Tiles/Collapsed slope2.png"/>
+ </tile>
+ <tile id="41">
+  <image width="32" height="32" source="Tiles/Collapsed slope3.png"/>
+ </tile>
+ <tile id="42">
+  <image width="32" height="32" source="Tiles/Collapsed slope1.png"/>
+ </tile>
+ <tile id="43">
+  <image width="32" height="32" source="Tiles/Collapsed slope5.png"/>
+ </tile>
+ <tile id="44">
+  <image width="32" height="32" source="Tiles/Collapsed slope4.png"/>
+ </tile>
+ <tile id="45">
+  <image width="32" height="32" source="Tiles/Collapsed slope6.png"/>
+ </tile>
+ <tile id="48">
+  <image width="32" height="32" source="Tiles/Collapsed slope7.png"/>
+ </tile>
+ <tile id="49">
+  <image width="32" height="32" source="Tiles/Collapsed slope8.png"/>
+ </tile>
+ <tile id="50">
+  <image width="32" height="32" source="Tiles/Collapsed slope9.png"/>
+ </tile>
+ <tile id="51">
+  <image width="32" height="32" source="Tiles/Collapsed slope10.png"/>
+ </tile>
+ <tile id="52">
+  <image width="32" height="32" source="Tiles/Collapsed slope12.png"/>
+ </tile>
+ <tile id="53">
+  <image width="32" height="32" source="Tiles/Collapsed slope11.png"/>
+ </tile>
+ <tile id="54">
+  <image width="32" height="32" source="Tiles/Darker Dirt.png"/>
  </tile>
 </tileset>
