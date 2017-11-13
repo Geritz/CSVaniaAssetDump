@@ -1,0 +1,8 @@
+Jon:  
+Lots of debugging this week!
+
+* Implemented a rough climbing system for when the player character jumps into the wall. The player can move up or down slowly with the w/s keys. (Still needs animation.)
+* Removed dynamic collider sizes that matched animations. It was a cute idea to have the side of the player's sprite set the hitbox, but caused too many jumpy issues.
+* Set a speed limit on the character motion to double their usual maximum speed. This should stop things from occasionally going flying during a collision.
+* Reworked sword swings to make sure the previous swing finishes before starting the next, this fixes triggering so multiple hits register correctly.
+* Added an additional animator boolean so things like sword-swings that can occur at any time will no longer occur while character is dead
