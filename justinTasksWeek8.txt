@@ -1,0 +1,29 @@
+New Creations:
+  	Added to the UI 
+	- created a HUD that includes the player's hitpoint display via the use of a slider. Tied this into the damage scripting so that it moves when damage is taken or health is restored
+	- created a text box below the health bar that tracks the HP - this gives a numeric health value to accompany the health bar. 
+	- created a floating damage numbers script that displays the amount of damage a player or enemy takes
+
+
+Bug fixes
+	- tied in the UI pause menu object so that the buttons actually work.
+
+Bugs identified
+	- need to tie the audio manager into the title screen so that the music appropriately switches when a player dies or returns to the title screen through the pause menu
+	- spike trap calls a function to kill the player, but it does not reduce health to 0, so the player still sees they have health left on the HUD but the player has gone through the death animation
+	- there is no way to kill the black knight using melee without taking damage. Possible fix is to make the enemy pause after using his lunge attack, so a player can jump over and attack from behind. Giving a slight window to damage from behind. Alternatively, we can accept this and make it known in our write up that this character is designed to be killed with the throwing knives
+	- pressing down (to hold shield up) causes the player to be invulnerable (even from the top or behind). Possible fix is to make it so bats can still damage from above or if the player is hit in the back they can take damage. This type of blocking would be easily exploitable
+	- pause menu and dialogue manager windows need to pause gameplay. I have been unable to get Time.timescale to work from these scripts in the same way that it works from pauser.
+
+
+For this week:
+	- hook the floating damage numbers script into the latest package creation
+	- hook the HP bar into the latest package creation (for enemies) 
+	- check with team if we think these are good additions or if it should be removed. 
+	- work on correcting the platform issue where the player can occassionall fall through when they were supposed to land. 
+	- Get pause script working correctly with the UI elements
+	- Visually enhance the dialogue manager
+		- find/build a background that looks like a scroll or parchment paper so that it is in theme
+		- change the font to be more in theme with the game
+	- Build the games quests - the framework is there, but it's time to put the game together with real objectives and story. 
+
