@@ -1,0 +1,17 @@
+Jon's week 9 stuff:  
+
+* Adjusted size of player's climbing collider so it will not get stuck on ceilings.
+
+* Added missing boolean value to Panther animation controller to stop Unity from fussing.
+
+* Camera script reconfigured to have an x-offset that adds to the margins and target camera postion based on which direction the player is facing.
+
+The camera pans to the target position with different speed depending on how far away the camera position is from the target position. This makes for a nice, comfy effect. :)
+
+* Allowed walking on a sloped surface by lowering friction of the ground from 1 to 0.4, which allows thing to move uphill. Also moved groundCheck child to be in a slightly different position to better detect the ground under slopes.
+
+New problem introduced: SLIDING BACK DOWN THE DARN SLOPE.
+* Resolved by freezing a player's motion in X-axis entirely when grounded.
+
+New problem 2 introduced: FREEZING X AXIS PREVENTS KNOCKBACK
+* Knockback was drastically reworked in the playerHealth script to add a velocity up and away from whatever caused damage. Player motion control also had to be disabled during this. It works better now.
